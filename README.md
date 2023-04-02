@@ -7,7 +7,7 @@ Web Developer Fullstack
 I'm currently studying full stack web development at Trybe. A course that teaches programming, learning and working.
 
 * 🌍  I'm based in Sapucaia do Sul, RS - Brazil
-* ✉️  You can contact me at [aiezer.santos@gmail.com](mailto:aiezer.santos@gmail.com)
+* ✉️  You can contact me at [aiezer.santos01@gmail.com](mailto:aiezer.santos@gmail.com)
 * 🧠  I'm learning Node.js, Express & software architecture with MSC
 
 ### Skills
